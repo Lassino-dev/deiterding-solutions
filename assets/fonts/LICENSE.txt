@@ -1,0 +1,9 @@
+Die Schriftarten in diesem Verzeichnis stehen unter der SIL Open Font License 1.1.
+
+Inter — Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Montserrat — Copyright (c) 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
+
+Lizenztext: https://openfontlicense.org/
+
+Die Dateien wurden von fonts.gstatic.com bezogen und werden lokal ausgeliefert,
+damit beim Aufruf der Website keine Verbindung zu Google-Servern entsteht.

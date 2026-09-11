@@ -1,0 +1,8 @@
+# Lokale Editor- und Systemdateien
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Lokale Vorschau-Konfiguration (verweist auf einen temporaeren Pfad)
+.claude/
